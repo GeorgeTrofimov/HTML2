@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(215, 182, 188);
+}
+
+body {
+    color:burlywood;
+    font: 90% Roboto, Arial, sans-serif;
+    font-weight: 300;
+}
+
+p{
+    padding: 0 10px;
+    line-height: 1.8;
+    color: rebeccapurple;
+}
+
+ul li {
+    padding-right: 10px;
+    line-height: 1.6;
+}
+
+h3{
+    padding: 5px 20px;
+    margin: 0;
+}
